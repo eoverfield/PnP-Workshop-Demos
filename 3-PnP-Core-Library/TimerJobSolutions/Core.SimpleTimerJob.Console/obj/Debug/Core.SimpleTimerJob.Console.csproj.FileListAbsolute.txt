@@ -1,0 +1,10 @@
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\Core.SimpleTimerJob\Core.SimpleTimerJob.Console\bin\Debug\Core.SimpleTimerJob.Console.exe.config
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\Core.SimpleTimerJob.Console\bin\Debug\Core.SimpleTimerJob.Console.exe.config
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\Core.SimpleTimerJob.Console\bin\Debug\Core.SimpleTimerJob.Console.exe
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\Core.SimpleTimerJob.Console\bin\Debug\Core.SimpleTimerJob.Console.pdb
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\Core.SimpleTimerJob.Console\bin\Debug\Microsoft.IdentityModel.Extensions.dll
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\Core.SimpleTimerJob.Console\bin\Debug\Microsoft.SharePoint.Client.dll
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\Core.SimpleTimerJob.Console\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\Core.SimpleTimerJob.Console\obj\Debug\Core.SimpleTimerJob.Console.csprojResolveAssemblyReference.cache
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\Core.SimpleTimerJob.Console\obj\Debug\Core.SimpleTimerJob.Console.exe
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\Core.SimpleTimerJob.Console\obj\Debug\Core.SimpleTimerJob.Console.pdb

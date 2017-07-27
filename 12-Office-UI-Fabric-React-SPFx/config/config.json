@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/reactDemo/ReactDemoWebPart.js",
+      "manifest": "./src/webparts/reactDemo/ReactDemoWebPart.manifest.json",
+      "outputPath": "./dist/react-demo.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "reactDemoStrings": "webparts/reactDemo/loc/{locale}.js"
+  }
+}

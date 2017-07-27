@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<pnp:Provisioning xmlns:pnp="http://schemas.dev.office.com/PnP/2015/12/ProvisioningSchema">
+  <pnp:Preferences Generator="OfficeDevPnP.Core, Version=2.1.1602.1, Culture=neutral, PublicKeyToken=3751622786b357c2" />
+  <pnp:Templates ID="CONTAINER-REGISTER-FILES">
+    <pnp:ProvisioningTemplate ID="REGISTERFILES" Version="1">
+
+			<pnp:Lists>
+        <pnp:ListInstance Title="Demo List" Description="" DocumentTemplate="" TemplateType="100" Url="Lists/Demo List" MinorVersionLimit="0" MaxVersionLimit="0" DraftVersionVisibility="0" ContentTypesEnabled="true" EnableFolderCreation="false">
+          <pnp:ContentTypeBindings>
+            <pnp:ContentTypeBinding ContentTypeID="0x0100B96EAC4F5BDFEC44A544ECF8BC35037A" Default="true" />
+          </pnp:ContentTypeBindings>
+          <pnp:Views>
+            <View Name="{9E8CC4A2-E968-4F02-B46E-EF48C3D8F1C1}" DefaultView="TRUE" MobileView="TRUE" MobileDefaultView="TRUE" Type="HTML" DisplayName="All Items" Url="/sites/demo-pnp-provisioning/Lists/Demo List/AllItems.aspx" Level="1" BaseViewID="1" ContentTypeID="0x" ImageUrl="/_layouts/15/images/generic.png?rev=44">
+              <Query>
+                <OrderBy>
+                  <FieldRef Name="ID" />
+                </OrderBy>
+              </Query>
+              <ViewFields>
+                <FieldRef Name="LinkTitle" />
+                <FieldRef Name="DemoField1" />
+                <FieldRef Name="DemoField2" />
+              </ViewFields>
+              <RowLimit Paged="TRUE">30</RowLimit>
+              <Aggregations Value="Off" />
+              <JSLink>clienttemplates.js</JSLink>
+            </View>
+          </pnp:Views>
+          <pnp:FieldRefs>
+            <pnp:FieldRef ID="663daecd-450a-4c84-920f-9629c6a8e532" Name="DemoField1" DisplayName="Demo Field 1" />
+            <pnp:FieldRef ID="5e1106a4-c317-4b38-abee-26427b68c122" Name="DemoField2" DisplayName="Demo Field 2" />
+          </pnp:FieldRefs>
+          <pnp:DataRows>
+						<pnp:DataRow>
+							<pnp:DataValue FieldName="Title">PnP Added Row 1</pnp:DataValue>
+							<pnp:DataValue FieldName="DemoField1">Demo 1 - Field 1 value</pnp:DataValue>
+							<pnp:DataValue FieldName="DemoField2">Choice #1</pnp:DataValue>
+						</pnp:DataRow>
+            <pnp:DataRow>
+							<pnp:DataValue FieldName="Title">PnP Added Row 2</pnp:DataValue>
+							<pnp:DataValue FieldName="DemoField1">Demo 2 - Field 1 value</pnp:DataValue>
+							<pnp:DataValue FieldName="DemoField2">Choice #2</pnp:DataValue>
+						</pnp:DataRow>
+          </pnp:DataRows>
+        </pnp:ListInstance>
+      </pnp:Lists>
+
+
+      <pnp:Files>
+        <pnp:File Src="SiteAssets\pnp.provision.demo.css" Folder="SiteAssets" Overwrite="true" />
+        <pnp:File Src="SiteAssets\pnp.provision.demo.js" Folder="SiteAssets" Overwrite="true" />
+        <pnp:File Src="SiteAssets\ContosoNavLogo.png" Folder="SiteAssets" Overwrite="true" />
+        <pnp:File Src="SiteAssets\BlueGradBG.png" Folder="SiteAssets" Overwrite="true" />
+        <pnp:File Src="SiteAssets\GradLeft.png" Folder="SiteAssets" Overwrite="true" />
+        <pnp:File Src="SiteAssets\GradRight.png" Folder="SiteAssets" Overwrite="true" />
+      </pnp:Files>
+    </pnp:ProvisioningTemplate>
+  </pnp:Templates>
+</pnp:Provisioning>

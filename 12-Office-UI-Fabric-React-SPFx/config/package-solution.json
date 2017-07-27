@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "to-do-webpart-client-side-solution",
+    "id": "b1cbcc0b-be2d-4004-b570-6e56cee64df4",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/to-do-webpart.sppkg"
+  }
+}

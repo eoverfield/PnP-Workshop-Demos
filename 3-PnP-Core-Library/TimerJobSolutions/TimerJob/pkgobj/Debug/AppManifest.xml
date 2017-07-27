@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Created:cb85b80c-f585-40ff-8bfc-12ff4d0e34a9-->
+<App xmlns="http://schemas.microsoft.com/sharepoint/2012/app/manifest" Name="TimerJob" ProductID="{15dd7d0f-9edb-4167-8d41-3d522314e5a1}" Version="1.0.0.0" SharePointMinVersion="16.0.0.0">
+  <Properties>
+    <Title>TimerJob</Title>
+    <StartPage>https://localhost:44353/Pages/Default.aspx?{StandardTokens}</StartPage>
+  </Properties>
+  <AppPrincipal>
+    <AutoDeployedWebApplication>
+      <DebugInfo ClientSecret="vR0gYjWwAXF0pxhD3IcDbEpSyJtRYZtsHeWnm6ZkIE0=" AppUrl="https://localhost:44353/" />
+    </AutoDeployedWebApplication>
+  </AppPrincipal>
+  <AppPermissionRequests AllowAppOnlyPolicy="true">
+    <AppPermissionRequest Scope="http://sharepoint/content/sitecollection/web" Right="FullControl" />
+  </AppPermissionRequests>
+</App>

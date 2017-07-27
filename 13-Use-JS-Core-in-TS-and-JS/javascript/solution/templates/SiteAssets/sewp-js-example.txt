@@ -1,0 +1,10 @@
+<script>
+    window.onload = function() {
+        if (typeof PnPDemo !== "undefined") {
+            PnPDemo.SiteData.init();
+        }
+        if (typeof SiteData !== "undefined") {
+            SiteData.init();
+        }
+    };
+</script>

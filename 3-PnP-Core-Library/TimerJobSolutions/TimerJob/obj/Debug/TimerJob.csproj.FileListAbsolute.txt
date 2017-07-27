@@ -1,0 +1,15 @@
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\bin\Debug\roslyn\csc.exe
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\bin\Debug\roslyn\vbc.exe
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\bin\Debug\roslyn\VBCSCompiler.exe
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\bin\Debug\TimerJob.pdb
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\obj\Debug\TimerJob.dll
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\TimerJobSolutions\TimerJob\obj\Debug\TimerJob.pdb

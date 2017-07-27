@@ -1,0 +1,1 @@
+E:\Datastore\Git Projects\GitHub\PnPWorkshop\3-PnP-Core-Library\Core.SimpleTimerJob\Core.SimpleTimerJob.Console\bin\Debug\Core.SimpleTimerJob.Console.exe.config

@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "to-do-webpart",
+    "framework": "react",
+    "version": "1.0.2",
+    "libraryId": "b1cbcc0b-be2d-4004-b570-6e56cee64df4"
+  }
+}
