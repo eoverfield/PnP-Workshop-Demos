@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/graphApiDemo/GraphApiDemoWebPart.js",
+      "manifest": "./src/webparts/graphApiDemo/GraphApiDemoWebPart.manifest.json",
+      "outputPath": "./dist/graph-api-demo.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "graphApiDemoStrings": "webparts/graphApiDemo/loc/{locale}.js"
+  }
+}

@@ -1,16 +1,49 @@
 #Demo 14 - Create an Azure Application for Graph API access
 
-		Create a new azure application so that we can get an app id and secret
-	Also review permissions
-	Take example that we want to get graph data based on my groups
+ 
+ https://portal.azure.com/
+    
+Azure Active Directory
+-> App Registrations
+-> New Application Registration
 
-	https://portal.azure.com
-	https://manage.windowsazure.com/pixelmill.com
+#creating sample app:
 
-	https://developer.microsoft.com/en-us/graph/docs/concepts/overview
-		Groups->Group->List Group
-		Get permissions requirements
+Name: GraphAPI_Testing
+App Type: Web app / API
+sign-on url: https://"yourtenant".sharepoint.com/
 
-	Update azure app so that we get group pre-reqs
+sign-on url used to allow people to sign into app, but for graph access, we really don't need this.
 
-	Must also enable implicit flow
+#Required Permissions - customize to fit:
+
+#keys - secret
+
+Name: GraphKey
+duration: whatever
+    
+#reply urls possibly
+    
+found best to include primary tenant url:
+https://"yourtenant".sharepoint.com/
+
+otherwise might get an invalid reply url error
+
+#add new API - Microsoft Graph 
+
+confirm permissions - https://developer.microsoft.com/en-us/graph/docs/api-reference/v1.0/api/group_list_memberof
+Review Prerequisites
+
+#Enable Implicit Flow
+
+find "Manifest" under main app card:
+oauth2AllowImplicitFlow to true
+Save
+
+#grant permissions on required permissions panel
+
+#consider
+
+update permissions as needed by endpoints you intend to work with
+
+#Graph - Delegate - "Read all groups", "Sign in and read user profile"

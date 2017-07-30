@@ -1,0 +1,5 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://secure.aadcdn.microsoftonline-p.com/lib/1.0.15/js/adal.min.js"></script>
+<script src="https://localhost:3000/SiteAssets/custom.js"></script>
+
+<div id="statusPlaceholder"></div>

@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "graph-api-demo-client-side-solution",
+    "id": "4e8f6e34-e19d-4533-937b-ba21c8cfc711",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/graph-api-demo.sppkg"
+  }
+}
